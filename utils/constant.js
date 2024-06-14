@@ -1,2 +1,2 @@
 
-export const MY_INFO= "I am a passionate CS student from Umeå University"
+export const MY_INFO= " A dedicated and enthusiastic Computer Science student at Umeå University. I have a deep-rooted passion for software development, technology, and problem-solving. Skilled in Java, JavaScript (React) and C, I am always eager to explore new technologies and take on challenges. Complementing my technical skills, I excel at collaborating in team settings, maintaining a detail-oriented approach, and managing time efficiently. With a continuous drive for self-improvement,"
