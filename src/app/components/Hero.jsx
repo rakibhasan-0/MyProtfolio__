@@ -7,7 +7,7 @@ import { motion } from "framer-motion";
 
 export const Hero = () => {
   return (
-    <div className="pb-4 lg:mb-35">
+    <div className="pb-4 lg:mb-20">
       <div className="flex flex-wrap items-center justify-between">
         <div className="w-full lg:w-1/2">
           <div className="my-20 flex flex-col items-center lg:items-start">
@@ -31,7 +31,7 @@ export const Hero = () => {
         </div>
         <div className="w-full lg:w-1/2">
         <motion.div 
-            className="flex justify-center ml-20"
+            className="flex justify-center"
             initial={{ x: 100, opacity: 0 }}
             animate={{ x: 0, opacity: 1 }}
             transition={{ duration: 0.7, delay: 1.2}}

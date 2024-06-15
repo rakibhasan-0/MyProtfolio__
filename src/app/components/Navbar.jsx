@@ -4,7 +4,7 @@ import { FaGithub, FaLinkedinIn, FaInstagram } from "react-icons/fa";
 
 export const Navbar = () => {
   return (
-    <nav className="flex items-center justify-between py-6">
+    <nav className="flex items-center justify-between py-6 lg:mb-20">
       <div className="flex flex-shrink-0 items-center mx-2">
         <Image src="/myLogo.svg" alt="myLogo" width={80} height={80} />
       </div>
